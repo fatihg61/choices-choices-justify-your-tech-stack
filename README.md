@@ -2,12 +2,7 @@
 
 # Justify your Tech-stack
 
-Verantwoord en presenteer je keuze voor een tech-stack.
-
-<!-- Haal bovenstaande tekst weg! -->
-
-
-<!-- Schrijf een mooie inleiding, beschrijf minstens de aanleiding - waarom doe je deze opdracht - en de tech-stack die je onderzoekt. Beschrijf daarna heel kort de stappen bij 2, 3, 4 en 5. -->
+Voor deze deeltaak zal ik uitleggen waarom ik gebruik maak van mijn techstak en waarom het handig kan zijn.
 
 <!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX) -->
 
