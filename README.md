@@ -1,20 +1,19 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-justify-your-tech-stack/blob/main/docs/INSTRUCTIONS.md)
+Aanleiding: 
 
-# Justify your Tech-stack
+Ik moet voor deze sprint mijn tech stack verantwoorden en dat heb ik gedaan in de wiki van dit repo.
 
-Voor deze deeltaak zal ik uitleggen waarom ik gebruik maak van mijn techstak en waarom het handig kan zijn.
+Conclusie UX:
 
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX) -->
+In het onderzoek naar de gebruikservaring van de tech stack van React en DATOCMS gedaan en heb wat leuke dingen ontdekt. Mijn conclusie is dat de 2 stacks goed met elkaar samenwerken om een goeie UX te bezorgen. Je kan heel makkelijk snelle web apps bouwen en die ook nog is toegankelijk is voor meerdere partije zelfs als je een oude device gebruikt.
 
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de ontwikkelervaring (DX) -->
+Conclusie DX:
 
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) -->
+De conclusie is dat deze combinatie van tools het werk van ontwikkelaars aanzienlijk makkelijker maakt. React biedt flexibiliteit, waardoor ontwikkelaars snel en efficiënt interactieve gebruikersinterfaces kunnen bouwen. Tegelijkertijd zorgt DATOCMS voor een soepele ervaring bij het beheren van content. Dit betekent dat ontwikkelaars zich kunnen richten op het toevoegen van functies zonder gehinderd te worden door ingewikkelde technische problemen. De integratie van React en DATOCMS verbetert niet alleen de manier van werken, maar verhoogt ook de productiviteit en tevredenheid.
 
-<!-- Neem als conclusie een alinea op waarin je de voorwaarden benoemd die deze tech-stack aan de betrokken partijen stelt. -->
+Conclusie CX:
 
-<!-- De licentie hieronder mag je ook weg halen, of laten staan, wat je wilt -->
+Het onderzoek wijst uit dat deze combinatie van tools een vlotte en intuïtieve content management ervaring biedt. CMS maakt het voor beheerders eenvoudig om content te maken, bewerken en publiceren. De gebruiksvriendelijke interface en flexibele structuur stellen gebruikers in staat om content moeiteloos te beheren, zonder gedoe met ingewikkelde technische aspecten.
 
-## Licentie
+Voorwaarden:
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
-
+Om DATOCMS en React te gebruiken, heb je een dato account nodig en moet je bekend zijn met JavaScript.
